@@ -1,0 +1,8 @@
+streamlit
+biopython
+rdkit
+networkx
+pubchempy
+pandas
+numpy
+scipy
